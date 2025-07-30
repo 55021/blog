@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on 55021</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on 55021</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 19:28:35 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meus temas favoritos do Hugo</title>
+      <link>http://localhost:1313/posts/hugo-themes/</link>
+      <pubDate>Wed, 30 Jul 2025 19:28:35 -0300</pubDate>
+      <guid>http://localhost:1313/posts/hugo-themes/</guid>
+      <description>&lt;p&gt;Eu amo escrever. Não quer dizer que eu sei fazer muito bem, mas que eu sempre estou fazendo um pouquinho que seja, seja no papel ou em algum lugar da internet até eu dar um sumiço. Por conta disso, toda vez que eu acho uma ferramenta nova de blogs que me agrada é uma nova tentativa de fazer com que um espaço dure.&lt;/p&gt;&#xA;&lt;p&gt;Dessa vez, enquanto eu buscava as respostas pra mais algum problema técnico, cheguei em um site muito bem organizado. No final da página, o rodapé dizia &lt;strong&gt;Made with Hugo Apéro&lt;/strong&gt;. Cliquei e vi a bio do repositório no Github: &lt;em&gt;A Hugo theme you&amp;rsquo;ll want to hang out with&lt;/em&gt;. Primeira reação: quem é Hugo, meu Deus?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;maria rita. 26 anos. 🇧🇷&lt;br&gt;&#xA;tagarela de berço.&lt;br&gt;&#xA;gosto muito de bater perna, ouvir música e fazer lista sobre todos os temas possíveis, e é exatamente isso que você vai encontrar aqui.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
