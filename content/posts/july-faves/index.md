@@ -1,6 +1,6 @@
 ---
 author: 'Ritinha'
-authorAvatarPath: '/blog/static/images/avatar-dog.jpg'
+authorAvatarPath: 'images/avatar-dog.jpg'
 date: '2025-07-25T23:31:34-03:00'
 title: 'Favoritos de julho'
 summary: 'Ano passado julho passou voando, e esse ano durou por 3 meses.'
