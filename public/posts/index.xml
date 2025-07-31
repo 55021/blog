@@ -22,12 +22,5 @@
       <guid>http://localhost:1313/posts/hugo-themes/</guid>
       <description>Quase dá saudade de caçar tema pro Blogger.</description>
     </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/future-posts-index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/future-posts-index/</guid>
-      <description>&lt;p&gt;title: &amp;lsquo;Log-Structured Merge Tree&amp;rsquo;&#xA;author: &amp;lsquo;Ritinha&amp;rsquo;&#xA;authorAvatarPath: &amp;lsquo;/avatar.jpg&amp;rsquo;&#xA;date: &amp;lsquo;2023-11-12&amp;rsquo;&#xA;summary: &amp;lsquo;An LSM Tree overview and Java implementation.&amp;rsquo;&#xA;description: &amp;lsquo;An LSM Tree overview and Java implementation.&amp;rsquo;&#xA;toc: true&#xA;readTime: true&#xA;autonumber: true&#xA;math: true&#xA;tags: [&amp;lsquo;database&amp;rsquo;, &amp;lsquo;java&amp;rsquo;]&#xA;showTags: true&#xA;hideBackToTop: false&#xA;fediverse: &amp;lsquo;@username@instance.url&amp;rsquo;&lt;/p&gt;&#xA;&lt;p&gt;Testes!&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

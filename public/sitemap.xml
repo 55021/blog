@@ -23,15 +23,6 @@
     <loc>http://localhost:1313/posts/hugo-themes/</loc>
     <lastmod>2025-07-25T19:28:35-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/database/</loc>
-    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
-    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/future-posts-index/</loc>
-    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>
