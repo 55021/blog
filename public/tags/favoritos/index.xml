@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Favoritos on 55021</title>
-    <link>http://localhost:1313/tags/favoritos/</link>
+    <link>http://localhost:1313/blog/tags/favoritos/</link>
     <description>Recent content in Favoritos on 55021</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Jul 2025 23:31:34 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/favoritos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/favoritos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Favoritos de julho</title>
-      <link>http://localhost:1313/posts/july-faves/</link>
+      <link>http://localhost:1313/blog/posts/july-faves/</link>
       <pubDate>Fri, 25 Jul 2025 23:31:34 -0300</pubDate>
-      <guid>http://localhost:1313/posts/july-faves/</guid>
+      <guid>http://localhost:1313/blog/posts/july-faves/</guid>
       <description>Ano passado julho passou voando, e esse ano durou por 3 meses.</description>
     </item>
   </channel>

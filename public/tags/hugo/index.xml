@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on 55021</title>
-    <link>http://localhost:1313/tags/hugo/</link>
+    <link>http://localhost:1313/blog/tags/hugo/</link>
     <description>Recent content in Hugo on 55021</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Jul 2025 19:28:35 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meus temas favoritos do Hugo</title>
-      <link>http://localhost:1313/posts/hugo-themes/</link>
+      <link>http://localhost:1313/blog/posts/hugo-themes/</link>
       <pubDate>Fri, 25 Jul 2025 19:28:35 -0300</pubDate>
-      <guid>http://localhost:1313/posts/hugo-themes/</guid>
+      <guid>http://localhost:1313/blog/posts/hugo-themes/</guid>
       <description>Quase dá saudade de caçar tema pro Blogger.</description>
     </item>
   </channel>

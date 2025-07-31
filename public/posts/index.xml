@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 55021</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/blog/posts/</link>
     <description>Recent content in Posts on 55021</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Jul 2025 23:31:34 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Favoritos de julho</title>
-      <link>http://localhost:1313/posts/july-faves/</link>
+      <link>http://localhost:1313/blog/posts/july-faves/</link>
       <pubDate>Fri, 25 Jul 2025 23:31:34 -0300</pubDate>
-      <guid>http://localhost:1313/posts/july-faves/</guid>
+      <guid>http://localhost:1313/blog/posts/july-faves/</guid>
       <description>Ano passado julho passou voando, e esse ano durou por 3 meses.</description>
     </item>
     <item>
       <title>Meus temas favoritos do Hugo</title>
-      <link>http://localhost:1313/posts/hugo-themes/</link>
+      <link>http://localhost:1313/blog/posts/hugo-themes/</link>
       <pubDate>Fri, 25 Jul 2025 19:28:35 -0300</pubDate>
-      <guid>http://localhost:1313/posts/hugo-themes/</guid>
+      <guid>http://localhost:1313/blog/posts/hugo-themes/</guid>
       <description>Quase dá saudade de caçar tema pro Blogger.</description>
     </item>
   </channel>
