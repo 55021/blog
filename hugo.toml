@@ -11,19 +11,19 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Temas escolhidos pela voz da minha cabeça."
 
 # Appearance settings
 theme = 'auto'
-colorPalette = 'default'
-hideHeader = false
+colorPalette = 'ritinha'
+hideHeader = true
 
-# Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
-homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
-"""
+# # Intro on main page, content is markdown
+# homeIntroTitle = 'Hi!'
+# homeIntroContent = """
+# I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
+# I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+# """
 
 # Collection to display on home
 homeCollectionTitle = 'Posts'
@@ -41,17 +41,17 @@ showCurrentPage = true
 home = "Home"
 
 # Social icons
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+# [[params.social]]
+# name = "linkedin"
+# url = "https://www.linkedin.com/in/user/"
 
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@user"
 
-[[params.social]]
-name = "github"
-url = "https://github.com/user"
+# [[params.social]]
+# name = "github"
+# url = "https://github.com/user"
 
 # Main menu pages
 [[params.menu]]

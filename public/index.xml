@@ -6,14 +6,28 @@
     <description>Recent content in Home on 55021</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jul 2025 19:28:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 23:31:34 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Favoritos de julho</title>
+      <link>http://localhost:1313/posts/july-faves/</link>
+      <pubDate>Fri, 25 Jul 2025 23:31:34 -0300</pubDate>
+      <guid>http://localhost:1313/posts/july-faves/</guid>
+      <description>Ano passado julho passou voando, e esse ano durou por 3 meses.</description>
+    </item>
     <item>
       <title>Meus temas favoritos do Hugo</title>
       <link>http://localhost:1313/posts/hugo-themes/</link>
-      <pubDate>Wed, 30 Jul 2025 19:28:35 -0300</pubDate>
+      <pubDate>Fri, 25 Jul 2025 19:28:35 -0300</pubDate>
       <guid>http://localhost:1313/posts/hugo-themes/</guid>
-      <description>&lt;p&gt;Eu amo escrever. Não quer dizer que eu sei fazer muito bem, mas que eu sempre estou fazendo um pouquinho que seja, seja no papel ou em algum lugar da internet até eu dar um sumiço. Por conta disso, toda vez que eu acho uma ferramenta nova de blogs que me agrada é uma nova tentativa de fazer com que um espaço dure.&lt;/p&gt;&#xA;&lt;p&gt;Dessa vez, enquanto eu buscava as respostas pra mais algum problema técnico, cheguei em um site muito bem organizado. No final da página, o rodapé dizia &lt;strong&gt;Made with Hugo Apéro&lt;/strong&gt;. Cliquei e vi a bio do repositório no Github: &lt;em&gt;A Hugo theme you&amp;rsquo;ll want to hang out with&lt;/em&gt;. Primeira reação: quem é Hugo, meu Deus?&lt;/p&gt;</description>
+      <description>Quase dá saudade de caçar tema pro Blogger.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/future-posts-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/future-posts-index/</guid>
+      <description>&lt;p&gt;title: &amp;lsquo;Log-Structured Merge Tree&amp;rsquo;&#xA;author: &amp;lsquo;Ritinha&amp;rsquo;&#xA;authorAvatarPath: &amp;lsquo;/avatar.jpg&amp;rsquo;&#xA;date: &amp;lsquo;2023-11-12&amp;rsquo;&#xA;summary: &amp;lsquo;An LSM Tree overview and Java implementation.&amp;rsquo;&#xA;description: &amp;lsquo;An LSM Tree overview and Java implementation.&amp;rsquo;&#xA;toc: true&#xA;readTime: true&#xA;autonumber: true&#xA;math: true&#xA;tags: [&amp;lsquo;database&amp;rsquo;, &amp;lsquo;java&amp;rsquo;]&#xA;showTags: true&#xA;hideBackToTop: false&#xA;fediverse: &amp;lsquo;@username@instance.url&amp;rsquo;&lt;/p&gt;&#xA;&lt;p&gt;Testes!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre</title>

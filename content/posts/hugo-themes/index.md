@@ -1,7 +1,15 @@
-+++
-date = '2025-07-30T19:28:35-03:00'
-title = 'Meus temas favoritos do Hugo'
-+++
+---
+author: 'Ritinha'
+authorAvatarPath: '/avatar.jpg'
+date: '2025-07-25T19:28:35-03:00'
+title: 'Meus temas favoritos do Hugo'
+summary: 'Quase dá saudade de caçar tema pro Blogger.'
+description: 'Quase dá saudade de caçar tema pro Blogger.'
+readTime: true
+tags: ['hugo']
+showTags: true
+hideBackToTop: false
+---
 
 Eu amo escrever. Não quer dizer que eu sei fazer muito bem, mas que eu sempre estou fazendo um pouquinho que seja, seja no papel ou em algum lugar da internet até eu dar um sumiço. Por conta disso, toda vez que eu acho uma ferramenta nova de blogs que me agrada é uma nova tentativa de fazer com que um espaço dure.
 
