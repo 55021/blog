@@ -1,6 +1,6 @@
 ---
 author: 'Ritinha'
-authorAvatarPath: '/avatar.jpg'
+authorAvatarPath: '/images/avatar.jpg'
 date: '2025-07-25T19:28:35-03:00'
 title: 'Meus temas favoritos do Hugo'
 summary: 'Quase dá saudade de caçar tema pro Blogger.'
