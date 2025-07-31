@@ -1,0 +1,19 @@
+.content {
+    .single-tags {
+        a {
+            text-transform: lowercase;
+        }
+    }
+    .single-content {
+        p {
+            a {
+                color: var(--content-secondary);
+                cursor: pointer;
+
+                &:hover {
+                    color: darken(var(--content-secondary), 10%);
+                }
+            }
+        }
+    }
+}
